@@ -1,0 +1,560 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Array_Sort",
+            "request": "launch",
+            "mainClass": "Array_Sort",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch piglatin",
+            "request": "launch",
+            "mainClass": "piglatin",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch FruitJuice",
+            "request": "launch",
+            "mainClass": "FruitJuice",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhoneBill",
+            "request": "launch",
+            "mainClass": "PhoneBill",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalaryCalculation",
+            "request": "launch",
+            "mainClass": "SalaryCalculation",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Atransport",
+            "request": "launch",
+            "mainClass": "Atransport",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch sixplace",
+            "request": "launch",
+            "mainClass": "sixplace",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchPro",
+            "request": "launch",
+            "mainClass": "switchPro",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ElectricBill",
+            "request": "launch",
+            "mainClass": "ElectricBill",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumusingclass",
+            "request": "launch",
+            "mainClass": "sumusingclass",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st16",
+            "request": "launch",
+            "mainClass": "String.st16",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch numbertowords",
+            "request": "launch",
+            "mainClass": "Star_Patterns.numbertowords",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern10",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern10",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern12",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern12",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern13",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern13",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern14",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern14",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch diamond2",
+            "request": "launch",
+            "mainClass": "diamond2",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch diamond1",
+            "request": "launch",
+            "mainClass": "diamond1",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch diamond",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Box2",
+            "request": "launch",
+            "mainClass": "Box2",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Box1",
+            "request": "launch",
+            "mainClass": "Box1",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuadFact",
+            "request": "launch",
+            "mainClass": "QuadFact",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch coefficient",
+            "request": "launch",
+            "mainClass": "coefficient",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorialUsingRecusrsion",
+            "request": "launch",
+            "mainClass": "factorialUsingRecusrsion",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculate",
+            "request": "launch",
+            "mainClass": "calculate",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch pconst",
+            "request": "launch",
+            "mainClass": "pconst",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number",
+            "request": "launch",
+            "mainClass": "Number",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st",
+            "request": "launch",
+            "mainClass": "String.st",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st11",
+            "request": "launch",
+            "mainClass": "String.st11",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch vowelCount",
+            "request": "launch",
+            "mainClass": "String.vowelCount",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st14",
+            "request": "launch",
+            "mainClass": "String.st14",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP11",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP11",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP10",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP10",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP9",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP9",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP8",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP8",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP7",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP7",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP6",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP6",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP4",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP4",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP3",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP3",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP2",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP2",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern4",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern3",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern2",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern1",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st3",
+            "request": "launch",
+            "mainClass": "String.st3",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st12",
+            "request": "launch",
+            "mainClass": "String.st12",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP21",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP21",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP5",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP5",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NP1",
+            "request": "launch",
+            "mainClass": "Number_Patterns.NP1",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern11",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern11",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern15",
+            "request": "launch",
+            "mainClass": "Star_Patterns.Pattern15",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern15",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern15",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern14",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern14",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern12",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern12",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern11",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern11",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern10",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern10",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern9",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern9",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern7",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern7",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern6",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern6",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern4",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern3",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern2",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern1",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch BrickBreaker",
+            "request": "launch",
+            "mainClass": "String.BrickBreaker",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch arr10",
+            "request": "launch",
+            "mainClass": "Array.arr10",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st2",
+            "request": "launch",
+            "mainClass": "String.st2",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch st1",
+            "request": "launch",
+            "mainClass": "String.st1",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "JAVA IN VSCODE_f01a87c0"
+        }
+    ]
+}
